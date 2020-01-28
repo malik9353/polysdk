@@ -1,0 +1,1 @@
+{"version":3,"file":"ChangeDelegatePermission.d.ts","sourceRoot":"","sources":["../../src/procedures/ChangeDelegatePermission.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AACxC,OAAO,EACL,aAAa,EAEb,qCAAqC,EAGtC,MAAM,UAAU,CAAC;AAGlB,qBAAa,wBAAyB,SAAQ,SAAS,CAAC,qCAAqC,CAAC;IACrF,IAAI,gBAA0C;IAExC,mBAAmB;CAsFjC"}

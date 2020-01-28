@@ -1,0 +1,1 @@
+{"version":3,"file":"TransferErc20.d.ts","sourceRoot":"","sources":["../../src/procedures/TransferErc20.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AACxC,OAAO,EAAE,0BAA0B,EAAa,aAAa,EAAsB,MAAM,UAAU,CAAC;AAIpG;;GAEG;AACH,qBAAa,aAAc,SAAQ,SAAS,CAAC,0BAA0B,CAAC;IAC/D,IAAI,gBAA+B;IAE7B,mBAAmB;CAmEjC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"PauseSto.d.ts","sourceRoot":"","sources":["../../src/procedures/PauseSto.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AACxC,OAAO,EACL,aAAa,EAEb,qBAAqB,EAGtB,MAAM,UAAU,CAAC;AAKlB,qBAAa,QAAS,SAAQ,SAAS,CAAC,qBAAqB,CAAC;IACrD,IAAI,gBAA0B;IAExB,mBAAmB;CA+EjC"}

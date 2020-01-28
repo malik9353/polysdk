@@ -1,0 +1,23 @@
+import { BigNumber } from '@polymathnetwork/abi-wrappers';
+import { ModuleType, Partition, Perm, TransferResult } from '../types';
+export declare function bytes32ToString(value: string): string;
+export declare function stringToBytes32(value: string): string;
+export declare function stringToKeccak256(value: string): string;
+export declare function checksumAddress(value: string): string;
+export declare function bigNumberToDate(value: BigNumber): Date;
+export declare function dateToBigNumber(value: Date): BigNumber;
+export declare function numberToBigNumber(value: number): BigNumber;
+export declare function dateArrayToBigNumberArray(value: Date[]): BigNumber[];
+export declare function numberArrayToBigNumberArray(value: number[]): BigNumber[];
+export declare function stringArrayToBytes32Array(value: string[]): string[];
+export declare function bytes32ArrayToStringArray(value: string[]): string[];
+export declare function weiToValue(value: BigNumber, decimals: BigNumber): BigNumber;
+export declare function weiArrayToValueArray(value: BigNumber[], decimals: BigNumber): BigNumber[];
+export declare function valueToWei(value: BigNumber, decimals: BigNumber): BigNumber;
+export declare function valueArrayToWeiArray(value: BigNumber[], decimals: BigNumber): BigNumber[];
+export declare function packVersion(major: string, minor: string, patch: string): number;
+export declare function parsePartitionBytes32Value(value: string): Partition;
+export declare function parsePermBytes32Value(value: string): Perm;
+export declare function parseModuleTypeValue(value: BigNumber): ModuleType;
+export declare function parseTransferResult(value: BigNumber): TransferResult;
+//# sourceMappingURL=convert.d.ts.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"SubModule.d.ts","sourceRoot":"","sources":["../../../src/entities/SecurityToken/SubModule.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,iBAAiB,CAAC;AAChD,OAAO,EAAE,OAAO,EAAE,MAAM,eAAe,CAAC;AAExC,qBAAa,SAAS;IACpB,SAAS,CAAC,aAAa,EAAE,aAAa,CAAC;IAEvC,SAAS,CAAC,OAAO,EAAE,OAAO,CAAC;gBAEf,aAAa,EAAE,aAAa,EAAE,OAAO,EAAE,OAAO;CAI3D"}

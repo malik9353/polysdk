@@ -1,0 +1,1 @@
+{"version":3,"file":"PushDividendPayment.d.ts","sourceRoot":"","sources":["../../src/procedures/PushDividendPayment.ts"],"names":[],"mappings":"AAOA,OAAO,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AACxC,OAAO,EACL,gCAAgC,EAEhC,aAAa,EAGd,MAAM,UAAU,CAAC;AAMlB,qBAAa,mBAAoB,SAAQ,SAAS,CAAC,gCAAgC,CAAC;IAC3E,IAAI,gBAAqC;IAEnC,mBAAmB;CAiFjC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"RevokeKyc.d.ts","sourceRoot":"","sources":["../../src/procedures/RevokeKyc.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AACxC,OAAO,EAAE,aAAa,EAAiC,sBAAsB,EAAE,MAAM,UAAU,CAAC;AAEhG,OAAO,EAAE,WAAW,EAAiB,MAAM,aAAa,CAAC;AAEzD,qBAAa,SAAU,SAAQ,SAAS,CAAC,sBAAsB,EAAE,WAAW,EAAE,CAAC;IACtE,IAAI,gBAAiD;IAE/C,mBAAmB;CAqGjC"}

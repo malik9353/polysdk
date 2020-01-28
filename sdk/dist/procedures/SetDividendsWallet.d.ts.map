@@ -1,0 +1,1 @@
+{"version":3,"file":"SetDividendsWallet.d.ts","sourceRoot":"","sources":["../../src/procedures/SetDividendsWallet.ts"],"names":[],"mappings":"AAKA,OAAO,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AACxC,OAAO,EACL,+BAA+B,EAC/B,aAAa,EAId,MAAM,UAAU,CAAC;AAIlB,qBAAa,kBAAmB,SAAQ,SAAS,CAAC,+BAA+B,CAAC;IACzE,IAAI,gBAAoC;IAElC,mBAAmB;CAgEjC"}

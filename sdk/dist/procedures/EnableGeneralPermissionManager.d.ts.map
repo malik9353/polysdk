@@ -1,0 +1,1 @@
+{"version":3,"file":"EnableGeneralPermissionManager.d.ts","sourceRoot":"","sources":["../../src/procedures/EnableGeneralPermissionManager.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AACxC,OAAO,EACL,aAAa,EAEb,2CAA2C,EAE5C,MAAM,UAAU,CAAC;AAUlB,qBAAa,8BAA+B,SAAQ,SAAS,CAC3D,2CAA2C,CAC5C;IACQ,IAAI,gBAAgD;IAE9C,mBAAmB;CAiCjC"}

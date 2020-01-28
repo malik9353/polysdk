@@ -1,0 +1,1 @@
+{"version":3,"file":"ApproveErc20.d.ts","sourceRoot":"","sources":["../../src/procedures/ApproveErc20.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AACxC,OAAO,EAAE,yBAAyB,EAAa,aAAa,EAAsB,MAAM,UAAU,CAAC;AAGnG;;GAEG;AACH,qBAAa,YAAa,SAAQ,SAAS,CAAC,yBAAyB,CAAC;IAC7D,IAAI,gBAA8B;IAE5B,mBAAmB;CA4DjC"}

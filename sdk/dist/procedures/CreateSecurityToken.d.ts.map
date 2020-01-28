@@ -1,0 +1,1 @@
+{"version":3,"file":"CreateSecurityToken.d.ts","sourceRoot":"","sources":["../../src/procedures/CreateSecurityToken.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AAExC,OAAO,EACL,gCAAgC,EAChC,aAAa,EAGd,MAAM,UAAU,CAAC;AAElB,OAAO,EAAE,aAAa,EAAE,MAAM,aAAa,CAAC;AAG5C,qBAAa,mBAAoB,SAAQ,SAAS,CAChD,gCAAgC,EAChC,aAAa,CACd;IACQ,IAAI,gBAAqC;IAEnC,mBAAmB;CAkGjC"}

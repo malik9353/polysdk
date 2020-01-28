@@ -1,0 +1,1 @@
+{"version":3,"file":"WithdrawTaxes.d.ts","sourceRoot":"","sources":["../../src/procedures/WithdrawTaxes.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AACxC,OAAO,EACL,0BAA0B,EAC1B,aAAa,EAId,MAAM,UAAU,CAAC;AAIlB,qBAAa,aAAc,SAAQ,SAAS,CAAC,0BAA0B,CAAC;IAC/D,IAAI,gBAA+B;IAE7B,mBAAmB;CAqDjC"}

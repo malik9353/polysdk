@@ -1,0 +1,38 @@
+import { BigNumber } from '@polymathnetwork/abi-wrappers';
+import { Partition, ErrorCode } from '../types';
+declare const assert: {
+    assert(condition: boolean, code: ErrorCode, message?: string | undefined): void;
+    isValidSubscriptionToken(variableName: string, subscriptionToken: string): void;
+    isNonZeroETHAddressHex(variableName: string, address: string): void;
+    areThereDuplicatedStrings(variableName: string, addresses: string[]): void;
+    isLessThanMax64BytesDate(variableName: string, value: Date): void;
+    isPercentage(variableName: string, value: BigNumber): void;
+    isFutureDate(value: Date, message: string): void;
+    isPastDate(value: Date, message: string): void;
+    isNotDateZero(value: Date, message: string): void;
+    isBigNumberZero(value: BigNumber, message: string): void;
+    isBigNumberGreaterThanZero(value: BigNumber, message: string): void;
+    areValidArrayLengths(value: any[][], message: string): void;
+    isValidVersion(version: string): void;
+    isValidPartition(partition: Partition): void;
+    isBigNumber(variableName: string, value: BigNumber): void;
+    isValidBaseUnitAmount(variableName: string, value: BigNumber): void;
+    isString(variableName: string, value: string): void;
+    isFunction(variableName: string, value: any): void;
+    isHexString(variableName: string, value: string): void;
+    isETHAddressHex(variableName: string, value: string): void;
+    doesBelongToStringEnum(variableName: string, value: string, stringEnum: any): void;
+    hasAtMostOneUniqueValue(value: any[], errMsg: string): void;
+    isNumber(variableName: string, value: number): void;
+    isNumberOrBigNumber(variableName: string, value: any): void;
+    isBoolean(variableName: string, value: boolean): void;
+    isWeb3Provider(variableName: string, value: any): void;
+    doesConformToSchema(variableName: string, value: any, schema: import("jsonschema").Schema, subSchemas?: import("jsonschema").Schema[] | undefined): void;
+    isWebUri(variableName: string, value: any): void;
+    isUri(variableName: string, value: any): void;
+    isBlockParam(variableName: string, value: any): void;
+    isArray(variableName: string, value: any): void;
+    typeAssertionMessage(variableName: string, type: string, value: any): string;
+};
+export default assert;
+//# sourceMappingURL=assert.d.ts.map

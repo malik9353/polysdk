@@ -1,0 +1,1 @@
+{"version":3,"file":"CreateCheckpoint.d.ts","sourceRoot":"","sources":["../../src/procedures/CreateCheckpoint.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AACxC,OAAO,EACL,6BAA6B,EAC7B,aAAa,EAGd,MAAM,UAAU,CAAC;AAGlB,OAAO,EAAiB,UAAU,EAAE,MAAM,aAAa,CAAC;AAExD,qBAAa,gBAAiB,SAAQ,SAAS,CAAC,6BAA6B,EAAE,UAAU,CAAC;IACjF,IAAI,gBAAkC;IAEhC,mBAAmB;CA8CjC"}

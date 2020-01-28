@@ -1,0 +1,1 @@
+{"version":3,"file":"Transfers.d.ts","sourceRoot":"","sources":["../../../src/entities/SecurityToken/Transfers.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,oCAAoC,CAAC;AAC/D,OAAO,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AAGxC,qBAAa,SAAU,SAAQ,SAAS;IACtC;;OAEG;IACI,gBAAgB;;mGAMrB;IAEF;;;;;;;;;OASG;IACI,kBAAkB;;;;;;wGAgBvB;CACH"}

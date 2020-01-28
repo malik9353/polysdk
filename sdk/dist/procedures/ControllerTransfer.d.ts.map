@@ -1,0 +1,1 @@
+{"version":3,"file":"ControllerTransfer.d.ts","sourceRoot":"","sources":["../../src/procedures/ControllerTransfer.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AACxC,OAAO,EACL,aAAa,EAEb,+BAA+B,EAEhC,MAAM,UAAU,CAAC;AAKlB,qBAAa,kBAAmB,SAAQ,SAAS,CAAC,+BAA+B,CAAC;IACzE,IAAI,gBAAoC;IAElC,mBAAmB;CA2EjC"}
